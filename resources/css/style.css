@@ -1,3 +1,29 @@
 *{
-    background-color: red;
+    background-color: #202020;
+    text-align: center;
 }
+h2{
+    font-size: 2rem;
+    color: #707070;
+    font-weight: 400;
+}
+h3{
+    color: #FFFFFF;
+    font-size: 1.5rem;
+}
+h1{
+    color: #FFFFFF;
+    font-weight: 600;
+}
+p{
+    color: rgb(2, 213, 250);
+}
+button{
+    background-color:rgb(42, 67, 100);
+}
+a{
+    text-decoration: none;
+    background-color: rgb(42, 67, 100);
+    color: rgb(2, 213, 250);
+}
+
