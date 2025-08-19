@@ -6,24 +6,44 @@ h2{
     font-size: 2rem;
     color: #707070;
     font-weight: 400;
+    padding: 20px;
 }
 h3{
     color: #FFFFFF;
     font-size: 1.5rem;
+    padding: 20px;
 }
 h1{
     color: #FFFFFF;
     font-weight: 600;
+    padding: 20px;
+    font-size: 3rem;
 }
 p{
     color: rgb(2, 213, 250);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 button{
     background-color:rgb(42, 67, 100);
+    padding: 10px;
 }
 a{
     text-decoration: none;
     background-color: rgb(42, 67, 100);
     color: rgb(2, 213, 250);
+    padding: 10px;
 }
-
+   
+nav{
+    padding: 10px;
+}
+footer{
+    color: #fff;
+    padding-top: 50px;
+}
+h4{
+    color: #fff;
+}
