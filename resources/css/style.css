@@ -25,16 +25,23 @@ p{
     padding-right: 30px;
     padding-top: 30px;
     padding-bottom: 30px;
+    
 }
-button{
-    background-color:rgb(42, 67, 100);
-    padding: 10px;
-}
+
 a{
     text-decoration: none;
     background-color: rgb(42, 67, 100);
     color: rgb(2, 213, 250);
     padding: 10px;
+    border: 5px outset #707070;
+    transition-duration: 0.7s;
+    margin: 5px;
+}
+
+a:hover{
+    background-color: #707070;
+    border: 5px outset rgb(42, 67, 100);
+   
 }
    
 nav{
